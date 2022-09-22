@@ -1,4 +1,3 @@
-
 class Block{
 
     constructor(x,y,width,height,speedX,speedY,clr){
